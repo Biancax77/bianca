@@ -1,6 +1,6 @@
 header {
     background-color: #52f3de;
-    color: #f0f8ff;
+    color: #001e39;
 }
 *{
     margin: 0;
@@ -9,7 +9,7 @@ header {
 
 .cabecalho {
     background-color:#52f3de;
-    color: #f0f8ff;
+    color:#001e39;    ;
     display: flex;
     justify-content: space-around;
     align-items: left;
