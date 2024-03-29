@@ -5,8 +5,6 @@ header {
 .cabecalho {
     background-color:#52f3de;
     color:#001e39;    ;
-    display: flex;
-    justify-content: space-around;
     align-items: left;
     padding: 24px 0;
 }
