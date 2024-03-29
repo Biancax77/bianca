@@ -1,5 +1,5 @@
 header {
-    background-color: #cf0000;
+    background-color: #aaf352;
     color: rgb(130, 26, 174);
 }
 *{
@@ -8,7 +8,7 @@ header {
 }
 
 .cabecalho {
-    background-color:#cf0000;
+    background-color:#aaf352;
     color:rgb(130, 26, 174);
     display: flex;
     justify-content: space-around;
