@@ -8,8 +8,8 @@ header {
 }
 
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #db94ff;
+    color:rgb(130, 26, 174);
     display: flex;
     justify-content: space-around;
     align-items: center;
