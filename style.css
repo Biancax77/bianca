@@ -1,14 +1,7 @@
 header {
     background-color: #52f3de;
     color: #001e39;
-
-.cabecalho {
-    background-color:#52f3de;
-    color:#001e39;    ;
-    align-items: left;
-    padding: 24px 0;
 }
-
-.cabecalho-imagem{
+.cabeçalho-imagem{
     width: 20%;
 }
