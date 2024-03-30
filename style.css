@@ -10,6 +10,7 @@ header {
     justify-content: left;
     align-items: center;
     padding: 10px 0;
+    font-size: 24px;
 }
 .cabeçalho-imagem{
     width: 20%;
