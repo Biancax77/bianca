@@ -28,5 +28,6 @@
 .frutas{
     background-image: linear-gradient(#9c0c0c,#c82456);
     color: #ffffff;
+    display: flex;
 }
 
