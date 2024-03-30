@@ -3,7 +3,7 @@
     padding: 0%;
 }
 
-header {
+.cabeçalho {
     background-color: #9c0c0c;
     color: #ffffff;
     display: flex;
@@ -14,4 +14,7 @@ header {
 }
 .cabeçalho-imagem{
     width: 20%;
+}
+.cabeçalho-titulo{
+    display: inline-block
 }
