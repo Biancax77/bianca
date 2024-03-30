@@ -82,4 +82,18 @@ body{
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
+
+body{
+    .poppins-regular {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .poppins-bold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }      
+}
 }
