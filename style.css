@@ -72,6 +72,9 @@ body{
     background-image: linear-gradient(#de307b,#e53487)
 }
 
+.frutas-dois{
+    color: #ffffff;
+}
 
 .fruta-titulo{
     display: inline-block;
