@@ -59,3 +59,12 @@ body{
 .imagem-caqui{
     width: 350px;
 }
+
+.frutas-dois{
+    color: #ffffff;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 24px 0;
+
+}
