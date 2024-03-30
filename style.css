@@ -16,5 +16,6 @@
     width: 20%;
 }
 .cabeçalho-titulo{
-    display: inline-block
+    display: inline-block;
+    justify-content: center;
 }
