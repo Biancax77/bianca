@@ -8,6 +8,8 @@
     color: #ffffff;
     display: flex;
     justify-content: left;
+    align-items: center;
+    padding: 24px 0;
 }
 .cabeçalho-imagem{
     width: 20%;
