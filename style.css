@@ -22,12 +22,12 @@
 }
 
 .frutas-imagem{
-    background-image: linear-gradient(#9c0c0c,#ff42b3);
+    background-image: linear-gradient(#9c0c0c,#c82456b3);
     width: 15%;
 }
 
 .frutas{
-    background-image: linear-gradient(#9c0c0c,#ff42b3);
+    background-image: linear-gradient(#9c0c0c,#c82456);
     color: #ffffff;
     display: flex;
     justify-content: center;
