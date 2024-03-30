@@ -69,7 +69,5 @@ body{
 }
 
 .frutas-titulo{
-    display:flex
-    margin: 0 16px;
-    font-size: 24px;
+    align-items: baseline;
 }
