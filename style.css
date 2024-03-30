@@ -14,6 +14,6 @@
 }
 .cabeçalho-titulo{
     display: inline-block;
-    align-items: center;
+    justify-content: center;
     font-size: 24px;
 }
