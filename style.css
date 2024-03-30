@@ -15,5 +15,6 @@
 .cabeçalho-titulo{
     display: inline-block;
     justify-content: center;
+    align-items: center;
     font-size: 24px;
 }
