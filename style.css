@@ -95,7 +95,11 @@ body{
 }
 }
 
-.rodape{
+.rodapé{
     background-color: black;
     text-align: center;
+}
+
+.rodapé-texto{
+    color: white;
 }
