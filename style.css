@@ -79,7 +79,7 @@ body{
 }
 
 .fruta-titulo{
-    display: inline-block;
+    display: center;
     color: black;
     margin: 0 16px;
     padding: 24px 0;
